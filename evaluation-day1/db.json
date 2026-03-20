@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "year": 2008,
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "The Pragmatic Programmer",
+      "author": "Hunt & Thomas",
+      "year": 1999,
+      "available": true
+    },
+    {
+      "title": "Node.js Design Patterns",
+      "author": "Mario Casciaro",
+      "year": 2020,
+      "id": "3",
+      "available": true
+    }
+  ]
+}
