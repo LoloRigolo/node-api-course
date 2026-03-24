@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Lorenzo/Desktop/DEV/cours_node/node-api-course/evaluation-day2/src/**)",
+      "Read(//c/Users/Lorenzo/Desktop/DEV/cours_node/node-api-course/evaluation-day2/src/services/**)"
+    ]
+  }
+}
